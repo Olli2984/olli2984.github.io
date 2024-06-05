@@ -1,9 +1,13 @@
-body {
-  background-color: powderblue;
-}
-h1 {
-  color: blue;
-}
-p {
-  color: red;
-}
+    body, html {
+        height: 40%;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        background-color:#fafafa;
+    }
+
+    div {
+        height: 100%;
+        width: 100%;
+        background-color:#e8fafa;
+    }
