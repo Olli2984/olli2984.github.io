@@ -1,13 +1,13 @@
-    body, html {
-        height: 40%;
-        width: 100%;
-        padding: 0;
-        margin: 0;
-        background-color:#fafafa;
-    }
+body, html {
+    height: 40%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background-color:#fafafa;
+}
 
-    div {
-        height: 100%;
-        width: 100%;
-        background-color:#e8fafa;
-    }
+div {
+    height: 100%;
+    width: 100%;
+    background-color:#e8fafa;
+}
